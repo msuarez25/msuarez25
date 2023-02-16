@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msuarez25
 - 👀 I’m interested in web development
 - 🌎 I am specialized in WordPress Development
-- 🌱 I’m currently learning ReactJS and Node.js
+- 🌱 I’m currently learning Wordpress Headless Technologies
 - 📫 How to reach me: Forum
 
 <!---
